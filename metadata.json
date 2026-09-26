@@ -1,0 +1,6 @@
+{
+  "name": "Basil & Ember — Italian Ristorante & Forno",
+  "description": "Editorial fine-dining website for Basil & Ember in SoHo NYC. Handmade pasta, 900° beechwood hearth cooking, seasonal tasting menus, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
